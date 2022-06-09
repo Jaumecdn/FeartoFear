@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 5595a0b0a6acb3647b332c59d1d89746
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5104642928478132615
+    second: salto_1
+  - first:
+      213: -5006346630430571533
+    second: salto_2
+  - first:
+      213: -7582253496403596742
+    second: salto_3
+  - first:
+      213: 6712224338716393019
+    second: salto_4
+  - first:
+      213: -8186597611155590068
+    second: salto_6
+  - first:
+      213: -9001618934849657234
+    second: salto_7
+  - first:
+      213: -7911034182714390672
+    second: salto_8
+  - first:
+      213: -139484868333494089
+    second: salto_9
+  - first:
+      213: -3361870351596797369
+    second: salto_10
+  - first:
+      213: -6394728900010981633
+    second: salto_12
+  - first:
+      213: 4540535443669838223
+    second: salto_13
+  - first:
+      213: 385296796821207388
+    second: salto_14
+  - first:
+      213: -1793415903528155118
+    second: salto_15
+  - first:
+      213: -7711011905545156072
+    second: salto_16
+  - first:
+      213: 745791539870541277
+    second: salto_17
+  - first:
+      213: -4729412054883436517
+    second: salto_18
+  - first:
+      213: -1347242648402754806
+    second: salto_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: salto_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 468
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891629a2b557d640800000000000000
+      internalID: 5104642928478132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 468
+        width: 44
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5162941, y: 0.5670391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f346bea342e58ab0800000000000000
+      internalID: -5006346630430571533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 467
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5881376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a66e51e9c66c690800000000000000
+      internalID: -7582253496403596742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 467
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.56303525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efbe1297c962d50800000000000000
+      internalID: 6712224338716393019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 333
+        width: 41
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1521808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44720cd8dc536e80800000000000000
+      internalID: -8186597611155590068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 357
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: -0.58910114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662bd87543d31380800000000000000
+      internalID: -9001618934849657234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 42
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: -0.39056146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0770655435c563290800000000000000
+      internalID: -7911034182714390672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 43
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2794892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a0735043701ef0800000000000000
+      internalID: -139484868333494089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 42
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: -0.54901844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c7282abc3851d0800000000000000
+      internalID: -3361870351596797369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 178
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.48089054, y: 0.13771312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cbe732fb5147a0800000000000000
+      internalID: -6394728900010981633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 160
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5382193, y: 0.22689162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e202ede8330f30800000000000000
+      internalID: 4540535443669838223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 160
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52508163, y: 0.58828646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59bf933569d85500800000000000000
+      internalID: 385296796821207388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 46
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.540949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180ba7dcb18c17e0800000000000000
+      internalID: -1793415903528155118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 47
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49146172, y: 0.56551903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4c2fc68bfcf490800000000000000
+      internalID: -7711011905545156072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.523152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a9724475995a00800000000000000
+      internalID: 745791539870541277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f8382bc0cd5eb0800000000000000
+      internalID: -4729412054883436517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 42
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5095542, y: 0.5302871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0382b303f1ad4de0800000000000000
+      internalID: -1347242648402754806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
